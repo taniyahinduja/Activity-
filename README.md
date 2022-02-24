@@ -1,3 +1,4 @@
-![Invoice](https://github.com/taniyahinduja/Activity/invoice/Image1.png?raw=true)
-![Invoice](https://github.com/taniyahinduja/Activity/invoice/Image2.png)
-![Invoice](https://github.com/taniyahinduja/Activity/invoice/Image3.png)
+<img src = "invoice/Image1.png" width ="70%">
+<img src = "invoice Image2.png" width ="70%">
+<img src = "invoice/Image3.png" width ="70%">
+
